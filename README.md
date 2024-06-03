@@ -1,14 +1,9 @@
-# Viro Starter Kit
+# Teste com o Viro React
 
-This is a new [**React Native**](https://reactnative.dev) project, set up with `@viro-community/react-viro`.
+Esse código foi gerado a partir do repositório Viro Starter Kit. A seguir estão as instruções do próprio Viro Starter Kit de como rodar o projeto.
 
-## How to Install Viro in an existing project?
-
-If you are integrating ViroReact into an existing project, have a look at our [Installation instructions](https://viro-community.readme.io/docs/installation-instructions).
 
 ## Getting Started
-
-> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions. Stop before you get to the `Creating a new application` section; we have done that for you!
 
 ## Step 1: Install Dependencies
 
